@@ -1,0 +1,58 @@
+body
+{ font-family: 'Merriweather', serif; margin-top: 100px;
+
+    background: radial-gradient(circle at 85.4% 50.8%, rgb(14, 72, 222) 0%, rgb(3, 22, 65) 74.2%);
+}
+
+
+
+
+
+h1
+{
+    text-align: center;  color: white;
+}
+
+.azadeh
+{
+    text-align: center;
+}
+
+.Real-estate2
+{
+    text-align: center;
+}
+
+.multicam
+{
+    text-align: center;
+}
+.multi-cam2
+{
+    text-align: center;
+}
+
+.multicam1
+{
+    text-align: center;
+}
+.bottom-container2 {
+  text-decoration: none;
+  background: radial-gradient(circle at 85.4% 50.8%, rgb(14, 72, 222) 0%, rgb(3, 22, 65) 74.2%);
+  font-family: Montserrat;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 4px;
+
+}
+h1 {
+  font-family: 'Poppins', sans-serif;
+
+}
+a {
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
